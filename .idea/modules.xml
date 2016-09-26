@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GDGVITvellore.iml" filepath="$PROJECT_DIR$/GDGVITvellore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GDGVITVellore.iml" filepath="$PROJECT_DIR$/GDGVITVellore.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/third_party/facebook/facebook.iml" filepath="$PROJECT_DIR$/third_party/facebook/facebook.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
